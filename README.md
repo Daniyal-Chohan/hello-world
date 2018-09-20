@@ -1,5 +1,5 @@
 # hello-world
-my first repositry!</br>
- Hi everyone!
+<h3>my first repositry!<h3></br>
+ <h5>Hi everyone!</h5>
  
- daniyal here. I like learning..
+<p> daniyal here. I like learning..</p>
